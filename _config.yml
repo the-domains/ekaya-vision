@@ -1,7 +1,7 @@
 name: Ekaya Vision
 favicon: null
-layout_spectrum: 0.43390312092378736
-typography_spectrum: 0.742402131902054
+layout_spectrum: 0.48602
+typography_spectrum: 0.24563
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.016699368366971612
-  lightness: 0.24029738386161625
-  saturation: 0.9226856275927275
-  rhythmicContrast: 0.2665392442140728
+    - '#ffffff'
+    - '#031428'
+    - '#6d747e'
+    - '#354052'
+    - '#09d555'
+  brandStrength: 0.9375
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
